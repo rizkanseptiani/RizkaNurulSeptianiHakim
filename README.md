@@ -1,0 +1,2 @@
+# RizkaNurulSeptianiHakim
+Praktikum Struktur Data
